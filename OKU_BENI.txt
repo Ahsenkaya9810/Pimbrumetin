@@ -1,0 +1,9 @@
+PİMBRU — METİN BUHRAN
+
+9 Eylül 2020 gönderisinde kullanıcı tarafından verilen fotoğraf varsayılan olarak bulunur. Profil fotoğrafı başlangıçta boştur.
+
+Profil alanına dokunarak profil fotoğrafını, gönderi fotoğrafına dokunarak 9 Eylül 2020 görselini telefondan istediğiniz zaman değiştirebilirsiniz.
+
+Fotoğraf değişiklikleri yalnızca o cihazın tarayıcısında saklanır. Tarayıcı verilerini silerseniz 2020 fotoğrafı varsayılan görsele döner.
+
+ZIP içindeki tüm dosyaları (metin-9-eylul-2020.jpg dahil) GitHub deponuzun ana dizinine yükleyin. Eski dosyaları aynı isimlerle güncelleyin.
